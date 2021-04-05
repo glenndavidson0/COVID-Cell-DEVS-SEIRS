@@ -1,0 +1,5 @@
+gen
+*.val
+*code-workspace
+vargen_backup.cpp
+state.txt

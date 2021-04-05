@@ -1,0 +1,6 @@
+population
+total S (proportion of population in Susceptible)
+total E (Sum of proportion of population in Exposed days 1-5)
+total I (Sum of proportion of population in Infected days 1-16)
+total R (Sum of proportion of population in Recovered days 1-6)
+total Immune (proportion of population in Immune)

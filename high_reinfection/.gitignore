@@ -1,0 +1,8 @@
+logs_raw
+conversion.txt
+logs_converted/messages.log
+logs_converted/structure.json
+logs_converted/scenario1.val
+*.code-workspace
+state.csv
+
